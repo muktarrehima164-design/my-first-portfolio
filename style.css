@@ -34,6 +34,14 @@ nav ul li a:hover{
     color:rgb(147, 124, 201);
    transition: all 0.5s;
 }
+.btn a{
+     color:white;
+    text-decoration: none;
+}
+.btn a:hover{
+ color:rgb(147, 124, 201);
+   transition: all 0.5s;
+}
 body p{
     color:white;
     text-align: center;
